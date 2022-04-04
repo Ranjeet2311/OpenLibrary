@@ -1,0 +1,56 @@
+*{
+      padding: 0;
+      margin: 0;
+      scroll-behavior: smooth;
+      box-sizing: border-box;
+}
+
+.form-wrap{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+
+}
+
+input{
+      margin: 6px;
+      font-size: 16px;
+      padding: 4px 6px;
+      width: 100%;
+
+}
+
+.btn{
+      font-size: 1rem;
+      padding: 8px 20px;
+}
+
+.app-wrapper{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+}
+
+.onebook-wrap{
+      margin-top: 2rem;
+      box-shadow: 0 2px 4px black;
+      
+}
+
+
+/* 
+.form-wrap {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    input {
+      margin: 6px;
+      font-size: 16px;
+      padding: 4px 6px;
+      width: 50%;
+    } */
